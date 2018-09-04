@@ -93,5 +93,11 @@ The easiest way to code your own controller is to create a new `*.py` file in th
 	~/simulation/ros_catkin_ws/src/gazebo_python_examples/erle_rover_explorer/scripts
 
 
+# Partners
 
+- [SpaceResources.lu Initiative](https://spaceresources.public.lu/en.html)
+- [Digital Luxembourg](https://digital-luxembourg.public.lu)
+- [SCRIPT](https://portal.education.lu/script/)
+- [CGIE](https://portal.education.lu/cgie/)
+- [FNR](https://www.fnr.lu)
 
