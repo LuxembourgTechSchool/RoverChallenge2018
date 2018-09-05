@@ -1,6 +1,6 @@
-# RoverChallenge2018
+# LTS - Space Resources Challenge 2018
 
-This repository contains documentation for the Space Resources Challenge 2018 using the Erle Rover.
+This repository contains documentation for the LTS - Space Resources Challenge 2018 using the Erle Rover.
 
 # Requirements & Links
 
@@ -101,3 +101,6 @@ The easiest way to code your own controller is to create a new `*.py` file in th
 - [CGIE](https://portal.education.lu/cgie/)
 - [FNR](https://www.fnr.lu)
 
+# More about the Erle Rover
+
+For more infor and support about the Erle Rover simulation visit the Erle Robotics [forum at] (http://forum.erlerobotics.com/c/robots/erle-rover)
