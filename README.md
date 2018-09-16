@@ -2,6 +2,8 @@
 
 This repository contains documentation for the LTS - Space Resources Challenge 2018 using the Erle Rover.
 
+Sponsor by [SpaceResources.lu Initiative](https://spaceresources.public.lu/en.html)
+
 # Requirements & Links
 
 We have prepared a virtual machine for you to work with.
@@ -37,7 +39,6 @@ Open the terminal and type the following commands:
 	cd ~/simulation/ardupilot/APMrover2
 	../Tools/autotest/sim_vehicle.sh -j 4 -f Gazebo
 	param load ~/Tools/Frame_params/3DR_Rover.param
-
 
 ### Proxy Mode
 
@@ -91,6 +92,10 @@ If you want to reset the rover and the simulation to his initial state, you will
 The easiest way to code your own controller is to create a new `*.py` file in the scripts folder:
 
 	~/simulation/ros_catkin_ws/src/gazebo_python_examples/erle_rover_explorer/scripts
+
+# Submissions not later than 31st October 2018
+
+Send your python code solution with your contact info to challenge@techschool.lu
 
 # More about the Erle Rover
 
