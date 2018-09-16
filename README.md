@@ -97,6 +97,10 @@ The easiest way to code your own controller is to create a new `*.py` file in th
 
 Send your python code solution with your contact info to challenge@techschool.lu
 
+# Test your code on the real Rover end of November 2018 Workshop
+
+Working submissions will be invited to test their code at the end of November 2018 workshop in Luxembourg City, and faster code solving the maze Wins a real Erle-Rover!!!
+
 # More about the Erle Rover
 
 For more infor and support about the Erle Rover simulation visit the Erle Robotics [forum at](http://forum.erlerobotics.com/c/robots/erle-rover)
