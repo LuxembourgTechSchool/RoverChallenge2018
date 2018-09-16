@@ -76,11 +76,11 @@ Then, just run for example:
 
 	python rover_obstacle_avoidance.py
 
-## 2. Stop the simulation
+## 4. Stop the simulation
 
 Stopping is easy: `CTRL+C` until it stops.
 
-## 3. Reset the simulation
+## 5. Reset the simulation
 
 If you want to reset the rover and the simulation to his initial state, you will have to:
 
