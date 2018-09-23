@@ -12,7 +12,7 @@ This is the easiest way to get started with the simulation environment.
 To run the virutal machine you will need:
 
 - [VirtualBox](www.virtualbox.org)
-- [LTS Virtual Machine Image (4.6 GB)](https://www.dropbox.com/s/zcvwiraq3kspj0o/LTS_Rover_Lubuntu.ova?dl=0) (Password of the default user is "lts")
+- [LTS Virtual Machine Image (4.6 GB)](https://goo.gl/RvPFjc) (Password of the default user is "lts")
 
 Link to the youtube tutorials is [here](https://www.youtube.com/playlist?list=PLya9cR8AUBydU-pzImClcrSf0GKgXXg89).
 
